@@ -1,0 +1,6 @@
+{
+  "name": "Internet Route Visualizer",
+  "description": "A modern dark glassmorphism cybersecurity dashboard displaying real-time public IP, network intelligence, ISP, geolocation, and interactive approximate route visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
